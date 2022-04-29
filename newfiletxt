@@ -1,4 +1,8 @@
 ##hello im the new file
+<<<<<<< HEAD
 im the new file
 
 ##hello im the new file##hello im the new file##hello im the new file
+=======
+##hello im the new file
+>>>>>>> edbd7ef0cc84ec1578fd274b51d2705483f6daea
